@@ -46,6 +46,9 @@ The Goto-Resource, if you have to make a decision or make improvements:
 
 * "Software Build Systems" by Peter Smith
 
+The Industry Survey, which revealed the costs of build-systems:
+* Kumfert, Gary and Tom Epperly. 2002. Software in the DOE: The Hidden Overhead of “The Build.” Livermore, CA: Lawrence Livermore National Laboratory.
+
 My Slides are in this repo as well.
 
 
